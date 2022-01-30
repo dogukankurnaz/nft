@@ -25,7 +25,7 @@ python3 nftgenerator.py
 ```
 ---------------------------------------
 
-## Screenshots
+## Screenshot
 ![Sample Pixel Avatar](https://i.hizliresim.com/9km7hij.jpg)
 
 ## Version
